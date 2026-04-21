@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Bioinformatician at the **Biomedical and Genome Science Initiative (BGSI)**, currently under a UNDP appointment. My work focuses on genome sequencing data analysis, NGS pipeline development, and bioinformatics infrastructure for public health genomics in Indonesia.
+My name is Jeffrey Young, and I am a Bioinformatician at the **Biomedical and Genome Science Initiative (BGSI)**, currently under a UNDP appointment. My work focuses on genome sequencing data analysis, NGS pipeline development, and bioinformatics infrastructure for public health genomics in Indonesia.
 
 My background bridges wet lab science and computational biology — from establishing BSL-2/3 laboratory environments to building and optimizing bioinformatics pipelines for platforms including MGI, Illumina, and Oxford Nanopore (ONT).
 
